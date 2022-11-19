@@ -13,7 +13,7 @@
 
 ```bash
  # clonar repositório
-    git clone https://github.com/Ismael-r-pithan/api-coffe
+    git clone https://github.com/Ismael-r-pithan/api-coffe](https://github.com/tds-2022-2/pet-project-Ismael-r-pithan.git
 ```
 
 # Tecnologias utilizadas
